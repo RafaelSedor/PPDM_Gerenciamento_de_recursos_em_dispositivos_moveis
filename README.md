@@ -83,7 +83,7 @@ Se quiser contribuir com este projeto, sinta-se à vontade para fazer um fork do
 
 3. **Inicie o Servidor de Desenvolvimento**
    ```sh
-   expo start
+   yarn expo start
    ```
 
 Com estas instruções, você deve ser capaz de clonar, instalar e iniciar o projeto em seu ambiente local.
